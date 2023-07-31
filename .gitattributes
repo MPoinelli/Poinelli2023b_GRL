@@ -1,0 +1,11 @@
+repository_bin_files/OBSt_CTD.stable filter=lfs diff=lfs merge=lfs -text
+repository_bin_files/SALT_CTD.bin filter=lfs diff=lfs merge=lfs -text
+repository_bin_files/SI_heff.bin filter=lfs diff=lfs merge=lfs -text
+repository_bin_files/THETA_CTD.bin filter=lfs diff=lfs merge=lfs -text
+repository_bin_files/bathy_larsen_v6.bin filter=lfs diff=lfs merge=lfs -text
+repository_bin_files/icetopo_larsen_v6.bin filter=lfs diff=lfs merge=lfs -text
+repository_bin_files/icetopo_larsen_v6_iceberg.bin filter=lfs diff=lfs merge=lfs -text
+repository_bin_files/OBEs_CTD.stable filter=lfs diff=lfs merge=lfs -text
+repository_bin_files/OBEt_CTD.stable filter=lfs diff=lfs merge=lfs -text
+repository_bin_files/OBSs_CTD.stable filter=lfs diff=lfs merge=lfs -text
+repository_bin_files/SI_area.bin filter=lfs diff=lfs merge=lfs -text
