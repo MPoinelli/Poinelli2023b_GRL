@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/672878589.svg)](https://zenodo.org/badge/latestdoi/672878589)
 # Supplementary code, data and model output for: _Ice-front retreat controls on ocean dynamics under Larsen C Ice Shelf, Antarctica_ currently under review for GRL
 
 This repository contains the necessary code and input data to reproduce the MITgcm model output presented in:
