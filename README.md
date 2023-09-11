@@ -59,6 +59,6 @@ ln -s ../MITgcm/build/mitgcmuv .
 ```
 However, as mentioned above, the experiments were designed to rely on parallel computing and were performed on the Pleiades supercomputer. 
 
-Furthermore, you will need .bin files that are in here https://ecco.jpl.nasa.gov/drive/files/ECCO2/High_res_LarsenC/repository_bin_files.
+Furthermore, you will need .bin files that are in here https://ecco.jpl.nasa.gov/drive/files/ECCO2/High_res_LarsenC/repository_bin_files (registration is required to access the data).
 
 Do not hesitate to send me an [email](mailto:mattia.poinelli@jpl.nasa.gov) if you need support with running these experiments in parallel.
