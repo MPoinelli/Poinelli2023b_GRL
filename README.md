@@ -4,7 +4,7 @@
 This repository contains the necessary code and input data to reproduce the MITgcm model output presented in:
 
 Poinelli, M., Nakayama, Y., Larour, E., Vizcaino, M., and Riva, R.: 
-_Ice-front retreat controls on ocean dynamics under Larsen C Ice Shelf, Antarctica_
+_Ice-front retreat controls on ocean dynamics under Larsen C Ice Shelf, Antarctica_, Geophysical Research Letters, 50, e2023GL104588. https://doi.org/10.1029/2023GL104588
 
 By using these resources, researchers can replicate the results obtained in the study and further explore the findings.
 
